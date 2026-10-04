@@ -1,7 +1,7 @@
 # aariz-cephalometric-landmark-detection
 External Validation of Deep Learning for Cephalometric Landmark Detection
 
-Training and evaluation code accompanying the manuscript "External Validation of Deep Learning for Cephalometric Landmark Detection" (submitted to the Journal of Dental Research).
+Training and evaluation code accompanying the manuscript "External Validation of Deep Learning for Cephalometric Landmark Detection" ( submitted for peer review).
 
 Overview
 
